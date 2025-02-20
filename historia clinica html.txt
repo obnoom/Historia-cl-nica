@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historia Clínica de Fisioterapia</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            background-color: #f2f2f2;
+            padding: 10px;
+            border-left: 5px solid #4CAF50;
+        }
+        .section p {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Historia Clínica de Fisioterapia</h1>
+
+    <div class="section">
+        <h2>Datos Personales</h2>
+        <p><strong>Nombre Completo:</strong> [Nombre del Paciente]</p>
+        <p><strong>Fecha de Nacimiento:</strong> [Fecha de Nacimiento]</p>
+        <p><strong>Sexo:</strong> [Sexo]</p>
+        <p><strong>Domicilio:</strong> [Domicilio]</p>
+        <p><strong>Teléfono:</strong> [Teléfono]</p>
+        <p><strong>Correo Electrónico:</strong> [Correo Electrónico]</p>
+        <p><strong>Estado Civil:</strong> [Estado Civil]</p>
+        <p><strong>Ocupación:</strong> [Ocupación]</p>
+    </div>
+
+    <div class="section">
+        <h2>Datos de Emergencia</h2>
+        <p><strong>Contacto de Emergencia:</strong> [Nombre del Contacto]</p>
+        <p><strong>Relación:</strong> [Relación]</p>
+        <p><strong>Teléfono:</strong> [Teléfono]</p>
+        <p><strong>Alergias:</strong> [Alergias]</p>
+        <p><strong>Medicamentos Actuales:</strong> [Medicamentos]</p>
+    </div>
+
+    <div class="section">
+        <h2>Antecedentes Personales</h2>
+        <p><strong>Enfermedades Crónicas:</strong> [Enfermedades]</p>
+        <p><strong>Alergias:</strong> [Alergias]</p>
+        <p><strong>Cirugías:</strong> [Cirugías]</p>
+    </div>
+
+    <div class="section">
+        <h2>Sección sobre el ACV</h2>
+        <p><strong>Fecha del Evento:</strong> [Fecha del Evento]</p>
+        <p><strong>Tipo de Tratamiento Hospitalario:</strong> [Tipo de Tratamiento]</p>
+        <p><strong>Días en el Hospital:</strong> [Días en el Hospital]</p>
+        <p><strong>Estudios Realizados:</strong> [Estudios]</p>
+    </div>
+
+    <div class="section">
+        <h2>Expectativas del Tratamiento</h2>
+        <p><strong>Objetivos del Paciente:</strong> [Objetivos del Paciente]</p>
+        <p><strong>Expectativas de Mejoría:</strong> [Expectativas de Mejoría]</p>
+    </div>
+
+    <div class="section">
+        <h2>Dificultades en Casa</h2>
+        <p><strong>Actividades que se le Dificultan:</strong> [Actividades]</p>
+        <p><strong>Necesidades de Apoyo Adicional:</strong> [Apoyo Adicional]</p>
+    </div>
+
+    <div class="section">
+        <h2>Evaluación</h2>
+        <p><strong>Evaluación Médica Inicial:</strong> [Evaluación Médica]</p>
+        <p><strong>Pruebas Diagnósticas:</strong> [Pruebas]</p>
+        <p><strong>Observaciones Clínicas:</strong> [Observaciones]</p>
+    </div>
+
+    <div class="section">
+        <h2>Plan de Tratamiento</h2>
+        <p><strong>Objetivos a Corto Plazo:</strong> [Objetivos a Corto Plazo]</p>
+        <p><strong>Objetivos a Largo Plazo:</strong> [Objetivos a Largo Plazo]</p>
+        <p><strong>Intervenciones y Terapias:</strong> [Intervenciones y Terapias]</p>
+        <p><strong>Seguimiento y Evaluación:</strong> [Seguimiento y Evaluación]</p>
+    </div>
+
+    <div class="section">
+        <h2>Notas Adicionales</h2>
+        <p><strong>Comentarios del Médico:</strong> [Comentarios del Médico]</p>
+        <p><strong>Recomendaciones de Estilo de Vida:</strong> [Recomendaciones]</p>
+    </div>
+</body>
+</html>
